@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start":"node app.js",
+    "start":"http-server cube",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
