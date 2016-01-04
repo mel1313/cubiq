@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Script for mobile devices, it automatically shows an overlaying message encouraging to add the web app to the homescreen. Compatible with iOS 6+ and Chrome for Android (soon WinPhone).",
   "main": "app.js",
+
   "dependencies": {
     "http-server": "^0.8.5"
   },
