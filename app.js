@@ -1,7 +1,7 @@
 var express = require('express');
 var app = express();
 
-app.use(express.static("index.html"));
+app.use(express.static("cube"));
 
 var server = app.listen(process.env.port, function () {
   var host = server.address().address;
