@@ -1,0 +1,21 @@
+{
+  "name": "cubiq",
+  "version": "1.0.0",
+  "description": "Script for mobile devices, it automatically shows an overlaying message encouraging to add the web app to the homescreen. Compatible with iOS 6+ and Chrome for Android (soon WinPhone).",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mel1313/cubiq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mel1313/cubiq/issues"
+  },
+  "homepage": "https://github.com/mel1313/cubiq#readme"
+}
